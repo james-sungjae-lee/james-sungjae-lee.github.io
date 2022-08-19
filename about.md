@@ -1,11 +1,36 @@
 ---
 layout: page
-title: About
+title: Sungjae Lee (James)
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kookmin University](https://kookmin.ac.kr). I am broadly motivated by the goal of efficient distributed system, focusing on core challenges related to system for machine learning, performance modeling, and transient cloud computing. At Kookmin University, I conducted research about efficient deep learning system with my advisor [Dr. Kyungyong Lee](https://leeky.me).
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+### Education
+[M.S.] Kookmin University, Department of Computer Science (GPA 4.5/4.5)
+[B.S.] Kookmin University (GPA 3.6/4.5)
+- Major in Business Administration
+- Minor in Computer Science
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+### Research Experiences
+**Research Assistant**
+- DDPS Lab, Kookmin University
+- Department of Statistics, University of California, Irvine
+**Teaching Assitant**
+- Cloud Architect Course, Samsung
+- Deep Learning Institute, NVIDIA
+    - Fundamental of Accelerated Computing with CUDA C/C++
+    - Fundamental of Deep Learning for Computer Vision
+- Python Programming, Kookmin University
+
+### Publications
+
+
+### Personal Projects
+
+
+### Skills
+
+
+### Selected Presentation
+
