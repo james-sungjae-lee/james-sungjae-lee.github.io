@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sungjae Lee (James)
-permalink: /about/
+permalink: /
 ---
 
 I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kookmin University](https://kookmin.ac.kr). I am broadly motivated by the goal of efficient distributed system, focusing on core challenges related to system for machine learning, performance modeling, and transient cloud computing. At Kookmin University, I conducted research about efficient deep learning system with my advisor [Dr. Kyungyong Lee](https://leeky.me).
