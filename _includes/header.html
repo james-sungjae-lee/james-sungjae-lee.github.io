@@ -1,6 +1,9 @@
 <header class="site-header">
 
-  <h2 class="logo"><a href="/about">{{ site.title }}</a></h2>
+  <h2 class="logo">
+    <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/Taffy.jpg)"></div>
+    {{ site.title }}
+  </h2>
 
   <div class="nav">
     
@@ -14,12 +17,11 @@
     </label>
     <input type="checkbox" id="menu-toggle">
 
-    <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/Taffy.jpg)"></div>
     <div class="site-nav">
       <nav>
         <ul class="page-link">
           <!-- <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li> -->
-          <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ "/" | prepend: site.baseurl }}">About</a></li>
           <li><a href="{{ "/archive" | prepend: site.baseurl }}">Posts</a></li>
           <!-- <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></li> -->
         </ul>
