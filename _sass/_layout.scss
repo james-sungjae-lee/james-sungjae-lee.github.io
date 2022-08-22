@@ -294,6 +294,8 @@ p.readmore {
   @media (min-width: $on-laptop+1) {
     float: left;
   }
+  width: 100%;
+  height: 100%;
   display:inline-block;
   margin-top: 50px;
   border-radius: 5%;
