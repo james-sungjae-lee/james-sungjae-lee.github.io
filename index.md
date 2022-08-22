@@ -3,7 +3,9 @@ layout: page
 title: Sungjae Lee (James)
 ---
 
-I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kookmin University](https://kookmin.ac.kr). I am broadly motivated by the goal of efficient distributed system, focusing on core challenges related to system for machine learning, performance modeling, and transient cloud computing. At Kookmin University, I conducted research about efficient deep learning system with my advisor [Dr. Kyungyong Lee](https://leeky.me).
+I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kookmin University](https://kookmin.ac.kr). I am broadly motivated by the goal of efficient distributed system, focusing on core challenges related to system for machine learning, performance modeling, and transient cloud computing. At Kookmin University, I conducted research about efficient deep learning system with my advisor [Dr. Kyungyong Lee](http://leeky.me).
+
+---
 
 ### Education
 [M.S.] Kookmin University, Department of Computer Science (GPA 4.5/4.5)
@@ -11,6 +13,8 @@ I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kook
 [B.S.] Kookmin University (GPA 3.6/4.5)
 - Major in Business Administration
 - Minor in Computer Science
+
+---
 
 ### Research Experiences
 **Research Assistant**
@@ -24,6 +28,8 @@ I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kook
     - Fundamental of Deep Learning for Computer Vision
 - Python Programming, Kookmin University
 
+---
+
 ### Publications
 **International**
 - Sungjae Lee and Kyungyong Lee. "Empirical Analysis and Offering of Various Historical Spot Instance Datasets", arXiv:2022.02973, Under Review
@@ -36,6 +42,8 @@ I am a student research assistant in the [DDPS Lab](https://ddps.cloud) at [Kook
 - Sungjae Lee, Jaeghang Choi, Unho Choi, and Kyungyong Lee. "Scalable Recommender System based on Serverless Computing", KSC 2020
 - Sungjae Lee, Dongwook Kim, Hyeonktae Choi, Subin Park, and Kyungyong Lee. "Accelerating of Cloud Face Recognition with Deep Learning based Edge Computing", KSC 2019
 - Sungjae Lee, Hyeonwoong Woo, Hyeokman Kim, and Kyungyong Lee. "Detect Posts which is using Hashtag Generator with Spectral Clustering", Best Paper Award at KCC 2019
+
+---
 
 ### Personal Projects
 **Flex Ads, 2019**
