@@ -290,6 +290,18 @@ p.readmore {
   }
 }
 
+.headerimage {
+  @media (min-width: $on-laptop+1) {
+    float: left;
+  }
+  display:inline-block;
+  margin-top: 50px;
+  border-radius: 5%;
+  background-size: cover !important;
+  background-position: center center !important;
+  margin-bottom: 15px;
+}
+
 
 
 /* footer */
