@@ -36,7 +36,7 @@ Teaching Assistant
 
 ### Publications
 International
-- Sungjae Lee and Kyungyong Lee. "Empirical Analysis and Offering of Various Historical Spot Instance Datasets", arXiv:2202.02973, Under Review [\[Link\]](https://arxiv.org/abs/2202.02973){:target="_blank"}
+- Sungjae Lee, Jaeil Hwang, and Kyungyong Lee. "Empirical Analysis and Offering of Various Historical Spot Instance Datasets", arXiv:2202.02973, Accepted for IISWC 2022 [\[Paper\]](https://arxiv.org/abs/2202.02973){:target="_blank"} [\[Demo\]](https://spotlake.github.io){:target="_blank"}
 - Sungjae Lee, Yoonseo Hur, Subin Park, and Kyungyong Lee. "PROFET: Profiling-based CNN Training Latency Prophet for GPU Cloud Instances", arXiv:2208.05130, Under Review [\[Link\]](https://arxiv.org/abs/2208.05130){:target="_blank"}
 - Sungjae Lee\*, Yeonji Lee\*, Junho Kim, and Kyungyong Lee. "RnR: Extraction of Visual Attributes from Large-Scale Fashion Dataset", Workshop on IEEE BigData 2019 (*equal contribution) [\[Link\]](https://ieeexplore.ieee.org/document/9006595){:target="_blank"}
 
