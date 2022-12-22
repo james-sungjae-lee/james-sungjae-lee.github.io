@@ -3,14 +3,14 @@ layout: page
 title: Sungjae Lee
 ---
 
-I am a student research assistant in the [DDPS Lab](https://ddps.cloud){:target="_blank"} at [Kookmin University](https://kookmin.ac.kr){:target="_blank"}. My research goal is to build efficient systems for AI with cutting-edge cloud technologies. To achieve this goal, I conducted research projects on Deep Learning Systems, Serverless Computing, Edge Computing, and Spot Instances. At Kookmin University, I focused on the project about cost-effective deep learning systems with my advisor [Professor Kyungyong Lee](http://leeky.me){:target="_blank"}.
+I am a student research assistant in the [DDPS Lab](https://ddps.cloud){:target="_blank"} at [Kookmin University](https://kookmin.ac.kr){:target="_blank"}. My research goal is to build efficient systems for AI with cutting-edge cloud technologies. To achieve this goal, I conducted research projects on Deep Learning Systems, Serverless Computing, Edge Computing, and Spot Instances. At Kookmin University, I focused on the project about cost and time effective deep learning systems with my advisor [Professor Kyungyong Lee](http://leeky.me){:target="_blank"}.
 
 ---
 
 ### Education
-[Master's Degree] Kookmin University, Department of Computer Science (GPA 4.5/4.5)
+[Master's Degree] Kookmin University, Department of Computer Science
 
-[Bachelor's Degree] Kookmin University (GPA 3.6/4.5)
+[Bachelor's Degree] Kookmin University
 - Major in Business Administration
 - Minor in Computer Science
 
@@ -24,7 +24,7 @@ Graduate Research Assistant
 
 Undergraduate Research Assistant
 - DDPS Lab, Kookmin University
-    - Serverless Inference System for Ensemble Models (KSC 2021)
+    - Serverless Inference System for Ensemble Models (KSC 2021, Best Presentation Paper Award)
     - Cloud Face Recognition with Deep Learning based Edge Computing (KSC 2019)
 - Dept. of Statistics, UC Irvine
     - Time-series Classification of Multichannel EEG Signal Data using Statistical Methods and 1D-CNN [\[Slide\]](https://drive.google.com/file/d/1fd05zmyQ9z8WzF83ewiuBcAHSfojQdpa/view){:target="_blank"} [\[GitHub\]](https://github.com/james-sungjae-lee/Deep-EEG){:target="_blank"}
