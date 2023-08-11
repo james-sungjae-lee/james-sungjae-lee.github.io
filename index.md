@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Sungjae Lee
+title: Sungjae Lee (James)
 ---
 
-I am a student research assistant in the [DDPS Lab](https://ddps.cloud){:target="_blank"} at [Kookmin University](https://kookmin.ac.kr){:target="_blank"}. My research goal is to build efficient systems for AI with cutting-edge cloud technologies. To achieve this goal, I conducted research projects on Deep Learning Systems, Serverless Computing, Edge Computing, and Spot Instances. At Kookmin University, I focused on the project about cost and time effective deep learning systems with my advisor [Professor Kyungyong Lee](http://leeky.me){:target="_blank"}.
+Hi! I am a first-year PhD student in the [NOW Lab](https://nowlab.cse.ohio-state.edu){:target="_blank"} at [The Ohio State University](https://www.osu.edu/){:target="_blank"} in the [Department of Computer Science and Engineering](https://cse.osu.edu/){:target="_blank"}. My research goal is to build efficient parallel systems for AI workloads. To achieve this goal, I conducted research projects on Deep Learning Systems, Serverless Computing, Edge Computing, and Spot Instances. Before joining OSU, I earned my Master's and Bachelor's degree at [Kookmin University](https://kookmin.ac.kr){:target="_blank"} and worked as an Undergraduate/Graduate Research Assistant in the [DDPS Lab](https://ddps.cloud){:target="_blank"}. At Kookmin University, I focused on a project about cost and time-efficient deep learning systems with my advisor, [Professor Kyungyong Lee](http://leeky.me){:target="_blank"}.
 
 ---
 
 ### Education
+[Doctoral Degree] The Ohio State University, Department of Computer Science and Engineering (ongoing)
+
 [Master's Degree] Kookmin University, Department of Computer Science
 
 [Bachelor's Degree] Kookmin University
@@ -17,6 +19,9 @@ I am a student research assistant in the [DDPS Lab](https://ddps.cloud){:target=
 <br>
 
 ### Research Experience
+Graduate Research/Teaching Assistant
+- NOW Lab, The Ohio State University
+
 Graduate Research Assistant
 - DDPS Lab, Kookmin University
     - Analysis of Spot Instances for Cost-effective System (IISWC 2022)
